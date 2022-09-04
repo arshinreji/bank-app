@@ -1,0 +1,29 @@
+body{
+background-image: url(./bank2.jpg);
+background-size: 100%;
+}
+
+h1{
+color: rgb(252, 251, 251);
+}
+#d1{
+border: 2px solid rgb(11, 11, 11);
+padding: 100px;
+background-color: rgb(1, 1, 15);
+
+
+}
+input{
+background-color: rgb(37, 36, 36);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font: size 1px;
+border-radius:10px;
+}
+label{
+color: aliceblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+button{
+margin-top:25px;
+}
